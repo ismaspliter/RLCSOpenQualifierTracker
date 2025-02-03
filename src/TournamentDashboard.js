@@ -88,7 +88,7 @@ const TournamentDashboard = () => {
         </div>
         <div className="flex items-center gap-4">
           <div className="text-right">
-            <p className="text-lg font-semibold">@ismaspliter</p>
+            <p className="text-lg font-semibold"><a href="https://twitter.com/ismaspliter" className="text-blue-400 hover:text-blue-500" target="_blank" rel="noopener noreferrer">@ismaspliter</a></p>
             <p className="text-sm text-gray-300">IA Powered</p>
           </div>
           <img src="/profile.jpg" alt="Profile" className="w-14 h-14 rounded-full border-4 border-white shadow-lg" />
