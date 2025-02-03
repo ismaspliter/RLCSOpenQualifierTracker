@@ -1,0 +1,39 @@
+{
+  "name": "mi-proyecto-react",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@fontsource/bebas-neue": "^5.1.1",
+    "lucide-react": "^0.474.0",
+    "papaparse": "^5.5.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^5.4.0",
+    "react-scripts": "5.0.1",
+    "react-virtualized": "^9.22.6",
+    "react-window": "^1.8.11"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
