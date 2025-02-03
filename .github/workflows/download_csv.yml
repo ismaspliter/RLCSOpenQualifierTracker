@@ -11,18 +11,18 @@ jobs:
 
     steps:
       - name: 📥 Clonar el repositorio y cambiar a gh-pages
-        run: |
-          git clone --single-branch --branch gh-pages https://github.com/${{ github.repository }} repo
-          cd repo
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages # 🔹 Nos aseguramos de trabajar en la rama correcta
+          persist-credentials: false # 🔹 Evita problemas con GITHUB_TOKEN
 
       - name: 🔽 Descargar el CSV desde Google Sheets
         run: |
-          cd repo
+          mkdir -p public  # 🔹 Asegurar que la carpeta `public/` existe
           curl -L -o public/data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vTbh95XSTt32crvr_4iW_6WdIOHLYWn_x0oYiRODrz1BLR8cvbnzwTSvwu3F6NDgsje-G9Fc5Olnft9/pub?gid=1795490302&single=true&output=csv"
 
       - name: 📌 Configurar Git con `GITHUB_TOKEN`
         run: |
-          cd repo
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data.csv
