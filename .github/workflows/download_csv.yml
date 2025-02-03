@@ -1,0 +1,25 @@
+name: Download CSV to Public Folder
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # 🔹 Ejecuta la acción cada 10 minutos
+  workflow_dispatch: # 🔹 Permite ejecución manual
+
+jobs:
+  update-csv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: 🔽 Descargar el CSV desde Google Sheets
+        run: |
+          curl -L -o public/data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vTbh95XSTt32crvr_4iW_6WdIOHLYWn_x0oYiRODrz1BLR8cvbnzwTSvwu3F6NDgsje-G9Fc5Olnft9/pub?gid=1795490302&single=true&output=csv"
+
+      - name: 📌 Configurar Git y hacer commit si hay cambios
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add public/data.csv
+          git diff --staged --quiet || (git commit -m "🔄 Actualización automática del CSV" && git push)
