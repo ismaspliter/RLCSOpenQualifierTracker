@@ -36,6 +36,7 @@ const TournamentDashboard = () => {
     const fetchData = async () => {
       try {
         const response = await fetch("${process.env.PUBLIC_URL}/data.csv")
+        console.log(response);
         const csvText = await response.text();
         
         Papa.parse(csvText, {

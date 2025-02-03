@@ -1,0 +1,30 @@
+name: Download CSV to Public Folder
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # 🔹 Ejecuta la acción cada 10 minutos
+  workflow_dispatch: # 🔹 Permite ejecución manual
+
+jobs:
+  update-csv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Clonar el repositorio y cambiar a gh-pages
+        run: |
+          git clone --single-branch --branch gh-pages https://github.com/${{ github.repository }} repo
+          cd repo
+
+      - name: 🔽 Descargar el CSV desde Google Sheets
+        run: |
+          cd repo
+          curl -L -o public/data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vTbh95XSTt32crvr_4iW_6WdIOHLYWn_x0oYiRODrz1BLR8cvbnzwTSvwu3F6NDgsje-G9Fc5Olnft9/pub?gid=1795490302&single=true&output=csv"
+
+      - name: 📌 Configurar Git con `GITHUB_TOKEN`
+        run: |
+          cd repo
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data.csv
+          git commit -m "🔄 Auto-update CSV file" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git gh-pages
