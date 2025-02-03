@@ -1,6 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import "@fontsource/bebas-neue";
+
 
 /* Si no usas Tailwind para estas clases, agrega definiciones personalizadas */
 button.active {

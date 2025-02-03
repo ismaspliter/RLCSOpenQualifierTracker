@@ -18,8 +18,9 @@ const countryToCode = {
 
 const getFlagPath = (countryName) => {
   const country = countryToCode[countryName];
-  return country ? `/flags/${country}.svg` : null;
+  return country ? `${process.env.PUBLIC_URL}/flags/${country}.svg` : null;
 };
+
 
 const CountryFilter = ({ commonCountries, selectedCountry, setSelectedCountry }) => {
   return (
@@ -32,7 +33,7 @@ const CountryFilter = ({ commonCountries, selectedCountry, setSelectedCountry })
               ? 'border-blue-500 bg-blue-500/20 text-blue-400' 
               : 'border-gray-700 bg-gray-800 text-gray-400 hover:border-gray-600'}`}
         >
-          All Teams
+          All
         </button>
         {commonCountries.map(country => (
           <button
@@ -48,7 +49,6 @@ const CountryFilter = ({ commonCountries, selectedCountry, setSelectedCountry })
               alt={country.name}
               className="w-6 h-4 object-cover rounded"
             />
-            <span>{country.name}</span>
           </button>
         ))}
       </div>

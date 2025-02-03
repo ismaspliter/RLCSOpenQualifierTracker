@@ -1,5 +1,7 @@
 import React from 'react';
+import "@fontsource/bebas-neue"; 
 import TournamentDashboard from './TournamentDashboard';
+
 
 function App() {
   return (
