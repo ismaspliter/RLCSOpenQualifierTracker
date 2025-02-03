@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/RLCSOpenQualifierTracker/static/css/main.369fa03e.css",
-    "main.js": "/RLCSOpenQualifierTracker/static/js/main.f3559d0c.js",
+    "main.js": "/RLCSOpenQualifierTracker/static/js/main.ec33aeb4.js",
     "static/media/bebas-neue-latin-400-normal.woff2": "/RLCSOpenQualifierTracker/static/media/bebas-neue-latin-400-normal.4352f3c0f3586c850c24.woff2",
     "static/media/bebas-neue-latin-400-normal.woff": "/RLCSOpenQualifierTracker/static/media/bebas-neue-latin-400-normal.35d44c0962992ff863c1.woff",
     "static/media/bebas-neue-latin-ext-400-normal.woff2": "/RLCSOpenQualifierTracker/static/media/bebas-neue-latin-ext-400-normal.99be330d826b8dba922c.woff2",
     "static/media/bebas-neue-latin-ext-400-normal.woff": "/RLCSOpenQualifierTracker/static/media/bebas-neue-latin-ext-400-normal.40ecee6e5fd01923295f.woff",
     "index.html": "/RLCSOpenQualifierTracker/index.html",
     "main.369fa03e.css.map": "/RLCSOpenQualifierTracker/static/css/main.369fa03e.css.map",
-    "main.f3559d0c.js.map": "/RLCSOpenQualifierTracker/static/js/main.f3559d0c.js.map"
+    "main.ec33aeb4.js.map": "/RLCSOpenQualifierTracker/static/js/main.ec33aeb4.js.map"
   },
   "entrypoints": [
     "static/css/main.369fa03e.css",
-    "static/js/main.f3559d0c.js"
+    "static/js/main.ec33aeb4.js"
   ]
 }
