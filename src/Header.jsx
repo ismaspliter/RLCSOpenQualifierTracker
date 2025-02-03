@@ -10,7 +10,7 @@ const Header = ({ filterVisible, setFilterVisible }) => {
           className="w-10 h-10 md:w-14 md:h-14 rounded-full border-4 border-white shadow-lg"
         />
         <h1 className="text-xl md:text-3xl font-extrabold font-bebas-neue">
-          Live Tracker Open Qualifier EUROPE #2
+          Live Tracker Open Qualifier EUROPE #3
         </h1>
       </div>
 
