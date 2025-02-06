@@ -78,7 +78,7 @@ const TeamCard = ({ team }) => {
                 className="w-full h-full object-cover rounded-md"
               />
             ) : (
-              <span className="text-lg font-bold text-white">
+              <span className="text-lg  text-white">
                 {team.name.substring(0, 2).toUpperCase()}
               </span>
             )}
@@ -86,7 +86,7 @@ const TeamCard = ({ team }) => {
 
           {/* Nombre del equipo + Seed */}
           <div className="flex-1 mx-2">
-            <h3 className="text-sm font-bold text-white">{team.name}</h3>
+            <h3 className="text-sm  text-white">{team.name}</h3>
 
             {/* 🔸 Cambio para el seed (fondo oscuro semitransparente) */}
             <div className="flex items-center gap-1 bg-gray-700/40 px-2 py-1 rounded-md mt-1 w-fit">
@@ -135,7 +135,7 @@ const TeamCard = ({ team }) => {
               className="w-full h-full object-cover"
             />
           ) : (
-            <span className="text-[150px] font-bold text-white select-none">
+            <span className="text-[175px]  text-white select-none">
               {team.name.substring(0, 2).toUpperCase()}
             </span>
           )}
@@ -154,7 +154,7 @@ const TeamCard = ({ team }) => {
       </div>
 
       <div className="pt-8 pb-4 relative z-10">
-        <h3 className="text-xl font-bold text-white mb-2">{team.name}</h3>
+        <h3 className="text-3xl  text-white mb-2">{team.name}</h3>
 
         {/* 🔸 Cambio para el seed (fondo oscuro semitransparente) */}
         <div className="flex items-center gap-2 bg-gray-700/40 w-fit px-2 py-1 rounded-md">
@@ -174,7 +174,7 @@ const TeamCard = ({ team }) => {
                 alt={player.country}
                 className="w-4 h-3 object-cover rounded-sm"
               />
-              <span className="text-xs text-gray-200">{player.name}</span>
+              <span className="text-sm text-gray-200">{player.name}</span>
             </div>
           ))}
         </div>
