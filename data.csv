@@ -1,15 +1,15 @@
 ,Id,seeding,nombre,jugador 1,jugador 2,jugador 3,pais jugador 1,pais jugador 2,pais jugador 3,RONDA,Estado,IMAGEN
 1,18737594,1,Gentle Mates Alpine,seikoo,juicy,Radosin,France,France,France,Winners Semi-Final,Winner,
 2,18871230,2,RRG,Gawfs,Rizex45,rysfox.,,Germany,Belgium,Winners Semi-Final,Winner,
-3,19156316,3,Save the game,Extra,AztraL,mtzR.,France,Belgium,France,Losers Round 5,Loser,
+3,19156316,3,Save the game,Extra,AztraL,mtzR.,France,Belgium,France,Losers Round 5,Eliminado,
 4,19124281,4,Caliente,Kaydop,saizen,Growlii,France,France,United Kingdom,Winners Semi-Final,Winner,
 5,18656161,5,Team JJROX,Stake,MaRc_By_8.,Rxii,Spain,Spain,Spain,Winners Semi-Final,Winner,
 6,18689627,6,Synergy,TehQoz,DORITO,ajg,Spain,Spain,Spain,Winners Semi-Final,Winner,
 7,18881356,7,Redemption,Kash,Toxiic,Smokez,United Kingdom,,United Kingdom,Winners Semi-Final,Winner,
-8,19065800,8,NOMSTER,Shark.,jelly.,Rebmob_RL,Ireland,Italy,United Kingdom,Winners Quarter-Final,Winner,https://images.start.gg/images/team/2531719/image-96cc599081b593603d5ea1a01aeaa738.jpg?ehk=JYhflGdakLBDjlVoraTitL78zqPq9tyOR8%2F3qLaFdIc%3D&ehkOptimized=8QoHJJ3E68ZNiJt6RyQIxyFx2Dqv9YN7cjWyx2yjEFY%3D
+8,19065800,8,NOMSTER,Shark.,jelly.,Rebmob_RL,Ireland,Italy,United Kingdom,Losers Round 5,Eliminado,https://images.start.gg/images/team/2531719/image-96cc599081b593603d5ea1a01aeaa738.jpg?ehk=JYhflGdakLBDjlVoraTitL78zqPq9tyOR8%2F3qLaFdIc%3D&ehkOptimized=8QoHJJ3E68ZNiJt6RyQIxyFx2Dqv9YN7cjWyx2yjEFY%3D
 9,19040929,9,F4WD,ejby,Mikeboy,Compact,Denmark,Netherlands,Belgium,Winners Semi-Final,Winner,https://images.start.gg/images/team/2498555/image-3322cf9c9d3a343de4671b6dd7537578.png?ehk=NBAeq3i%2FTnkvJJMpOsI5eHlFgJC9Vr3uVsr4zlbH1v4%3D&ehkOptimized=%2F903%2F2pfjD6QKcYnUx62YHudsDJ8OdQfOuwVKA4DHCU%3D
 10,19042821,10,NOVO Esports,Hyderr,Dead-Monster,Mala,Italy,Italy,Italy,Winners Semi-Final,Winner,https://images.start.gg/images/team/2509780/image-dd0c2eec3c19c4253bbb1a043ed09db9.png?ehk=SNx1RGDuMdKCiL25IkRnR2oZzySmI3FBI5G4QZbDEgE%3D&ehkOptimized=R3Wlw1uXrp%2F7W1rG5CXHOuHyw4%2BI5C%2BV4Qrw0wqppMk%3D
-11,19138104,11,Seleçao,Ever.,MayKo,Rust ez95,France,France,France,Losers Round 5,Loser,
+11,19138104,11,Seleçao,Ever.,MayKo,Rust ez95,France,France,France,Losers Round 6,Loser,
 12,18778963,12,WYLDE,TempoH,ivn,Noahsaki,,Austria,United Kingdom,Winners Semi-Final,Winner,
 13,19085117,13,Arrogant,Davoof,Gramma,Mozzarella,Italy,Italy,France,Winners Semi-Final,Winner,
 14,19154428,14,Sick!,DS Beasty YT,JWeyts,billy,,Belgium,United Kingdom,Winners Semi-Final,Winner,https://images.start.gg/images/team/2485320/image-7d9ce03540672496c82a930043fc4956.png?ehk=c2kW%2F6it8ZHIAcab7DCApXdtZmCBQnJpe9VSYvs2kZE%3D&ehkOptimized=MgY2FI8pY90dzJvcKO%2FpE%2Fl4zdoE%2BTQpFMJBt6zqFTg%3D
@@ -21,11 +21,11 @@
 20,19153434,20,DOJO,Tr3bla,Ne0n,rizun,Denmark,Germany,United Kingdom,Losers Round 5,Eliminado,
 21,19162218,21,Cashonly,Skyrix,Kwazz,dayyshift,France,France,Germany,Losers Round 6,Loser,#N/A
 22,19083837,22,Team HSK,Cb,aEthxn,Pluvo,United Kingdom,United Kingdom,United Kingdom,Winners Semi-Final,Winner,
-23,19139914,23,Stellar Young Guns,matsgrey,Icon,Cocoo,Denmark,United Kingdom,Spain,Losers Round 5,Loser,
-24,19147044,24,Maestros,Syracks,šedou,monkeymode,Czech Republic,,Netherlands,Losers Round 5,Loser,
+23,19139914,23,Stellar Young Guns,matsgrey,Icon,Cocoo,Denmark,United Kingdom,Spain,Losers Round 6,Loser,
+24,19147044,24,Maestros,Syracks,šedou,monkeymode,Czech Republic,,Netherlands,Losers Round 6,Loser,
 25,19107973,25,EyeOfRah,Naish,MonkiAero,Dmy.,United Kingdom,United Kingdom,Germany,Winners Semi-Final,Winner,https://images.start.gg/images/team/2532179/image-9c86d8ccc53fa99de15cabec82e90e2c.png?ehk=TJUz%2B3EoGRGfvalIyAqjLExl%2F88TGpANJTs3nQqsbbc%3D&ehkOptimized=h8OGPhE9DvrMspSyMD1zgQ9x9RbJueiNMGWIx9pvLSE%3D
 26,19116262,26,Super Team,Fairy Peak!,Chausette45,WhiiskyDrink,France,France,France,Losers Round 5,Loser,https://images.start.gg/images/team/2508497/image-d754e50efa4b4d4cc33c6a7b46af3667.jpg?ehk=DGkw%2FlFJmUVGYu6m3qUjA2b0qse%2FUyNnbzXmkezERN4%3D&ehkOptimized=Dgz7HCDu3hqaDWJsvA1H5j0xf%2BMUv2%2FowKLrDoxH3BY%3D
-27,19132686,27,Scald eSports,Mimillo Sama,fleikoo,Reeyko,,France,France,Losers Round 5,Loser,https://images.start.gg/images/team/1877165/image-c6134e9b1f0c09fed5fa15aa69c37660.png?ehk=zobz4htWJZwXJiVfO%2FPXdskin0%2BK7%2FXxVR6ttmNf81o%3D&ehkOptimized=66HYOPxCrmSmOmgjCGFIVinZtow4lZSUis8IFfngr%2Fs%3D
+27,19132686,27,Scald eSports,Mimillo Sama,fleikoo,Reeyko,,France,France,Losers Round 5,Eliminado,https://images.start.gg/images/team/1877165/image-c6134e9b1f0c09fed5fa15aa69c37660.png?ehk=zobz4htWJZwXJiVfO%2FPXdskin0%2BK7%2FXxVR6ttmNf81o%3D&ehkOptimized=66HYOPxCrmSmOmgjCGFIVinZtow4lZSUis8IFfngr%2Fs%3D
 28,19067580,28,Jopie,Marmoan,Minkey,Shice,Netherlands,Netherlands,Netherlands,Losers Round 5,Eliminado,https://images.start.gg/images/team/2501844/image-ee587f4441b261985198e8987c789d1b.jpg?ehk=aaUqf5HWmosHrC4N7FbUpxShmrqhAMz%2FCHNRw8KLBB8%3D&ehkOptimized=skoqYNPZtJZ24w91LJ5cw6RbBuImWi0VlDD9WiWr02Y%3D
 29,19155932,29,NXT,Keks.,boa,MD,Germany,United Kingdom,Germany,Losers Round 4,Eliminado,
 30,19128494,30,Here Boom Demo,Jort,mystzi,ISaaC,Netherlands,United Kingdom,United Kingdom,Losers Round 3,Eliminado,
@@ -34,7 +34,7 @@
 33,19157373,33,Prime Yappy Nappie,Stade,Defzzy,Bolt.,Sweden,Netherlands,Norway,Losers Round 2,Eliminado,
 34,19065195,34,Ambys,Mentor.,HMO,aystrow,Saudi Arabia,Saudi Arabia,France,Losers Round 5,Eliminado,https://images.start.gg/images/team/2531724/image-649fb1ae5326acdd9923a52161943c34.jpg?ehk=etiYnSd6KsP6M2ToJRTu1KeeogKo533HuNOC1qAD9cI%3D&ehkOptimized=x3bghbCej5uORgLUyFDFVsNY%2Bid8gRsgy2jKFaZmr88%3D
 35,19092127,35,les payots,breyyn,clsk-,Maaivy,France,France,France,Losers Round 5,Eliminado,
-36,19089223,36,LLHonved,Mstr.,meshinn,bibbaba,Hungary,Hungary,Hungary,Losers Round 5,Loser,
+36,19089223,36,LLHonved,Mstr.,meshinn,bibbaba,Hungary,Hungary,Hungary,Losers Round 6,Loser,
 37,19159798,37,Perro y Sánchez,Nacheete,Denisinho,Rife31,Spain,Spain,Spain,Losers Round 6,Loser,https://images.start.gg/images/team/2510274/image-dfe81d9dfa12bca516a958a43ee7eb5f.jpg?ehk=vdY87jVgibrEbsyajZ06XP9ezMC2thAA4KTUcH%2BuD%2FI%3D&ehkOptimized=TM9h%2BxITKa6pL9Rsck8puxq4BdmSbam6IddMXI0sUgg%3D
 38,19137477,38,Les PuPuces,agaliank,Nickbeast-.-,AnoriQ,France,,France,Losers Round 5,Eliminado,https://images.start.gg/images/team/2586465/image-3a4f3f10e12685c5c5d39d8bb608ae0f.png?ehk=BV2lBXXghCp0glFNGdaT0tqnnx6c1CVIK8vP6xubcnM%3D&ehkOptimized=kdWPpwdZEGMc3%2FgZrOY%2F3f%2Fh%2BwRmL64tatLylTETsos%3D
 39,19147896,39,Jalada,Wilfred,Killero.ツ,Aizen,Spain,Spain,Spain,Losers Round 4,Eliminado,
@@ -42,14 +42,14 @@
 41,19057200,41,ReckenRockets,Zeddo,Pindroy,Vano,Germany,Germany,Germany,Losers Round 5,Eliminado,https://images.start.gg/images/team/2576054/image-fb07898ff400a9e1a453da2914d12157.jpg?ehk=dAMWyKWZ5crz48li2OkNla0acd4gB8cwbDi0TGA2TZg%3D&ehkOptimized=Xvc0E4ppqZknk5YBRkuerfXDef85cXzkzxzhcaLBhNs%3D
 42,19038036,42,washed up boys,k1rn,Mercy,Ethzn.,United Kingdom,United Kingdom,United Kingdom,Losers Round 3,Eliminado,
 43,19147258,43,OGC FC,Zamberg,flexx,Jepsidepsi,Sweden,Sweden,Denmark,Losers Round 6,Loser,
-44,19157368,44,Leftovers,Tyr,Kekkoz,nikzz,United Kingdom,Italy,,Losers Round 5,Loser,
+44,19157368,44,Leftovers,Tyr,Kekkoz,nikzz,United Kingdom,Italy,,Losers Round 5,Eliminado,
 45,19161840,45,Critical scran,Thooberr,Stat.,Dabbe,United Kingdom,United Kingdom,Sweden,Losers Round 1,Eliminado,
 46,19155123,46,Esport BERG,Phliip.,Barou,InFamous,Germany,Germany,North Macedonia,Losers Round 6,Eliminado,https://images.start.gg/images/team/2507384/image-297a2697c0f5e6f7ce3d4debfcbf8c58.png?ehk=BFAtg2d5g7UnXz7IC%2F%2B4bQpCj9NT2fPOescPxYNI0a4%3D&ehkOptimized=sgHGv9uWfid%2BMem2gOJGwAbX2O%2Bx6n4WfT9G4QK9FWI%3D
 47,19087998,47,MiBolle,Tms,klap,forevergully7,Italy,Italy,Italy,Losers Round 4,Eliminado,
-48,19161355,48,Nebulous Esports,DantroneX,Chronomia,Ronaky,Spain,France,Denmark,Losers Round 5,Loser,https://images.start.gg/images/team/2512994/image-247e2e8c627f950f4f8af9eeb302ca5e.png?ehk=vQRLGyRM9EEW5ynf43MTiBf9P%2B4nJ4Oan4VzWmoQTdA%3D&ehkOptimized=3iclL1CEmjkmqJ%2FY9AcA9k9J0fCd%2FMi5Ka2b23Iozl4%3D
+48,19161355,48,Nebulous Esports,DantroneX,Chronomia,Ronaky,Spain,France,Denmark,Losers Round 6,Loser,https://images.start.gg/images/team/2512994/image-247e2e8c627f950f4f8af9eeb302ca5e.png?ehk=vQRLGyRM9EEW5ynf43MTiBf9P%2B4nJ4Oan4VzWmoQTdA%3D&ehkOptimized=3iclL1CEmjkmqJ%2FY9AcA9k9J0fCd%2FMi5Ka2b23Iozl4%3D
 49,19152520,49,BNJ,NoXt,Leambu.,Jonix!,France,France,Spain,Losers Round 4,Eliminado,
 50,19157027,50,123,RLm7md,Cxrtex,vadyy.,France,,Portugal,Winners Semi-Final,Winner,
-51,19155395,51,Ananas Gang,sml.,Seboraahh,visaac.,Spain,France,Spain,Losers Round 5,Loser,
+51,19155395,51,Ananas Gang,sml.,Seboraahh,visaac.,Spain,France,Spain,Losers Round 6,Loser,
 52,19149381,52,Baguette Vikings,AluRL,Banjae,bruhkay,France,Denmark,Norway,Losers Round 5,Eliminado,https://images.start.gg/images/team/2587721/image-6f2fad6002d6d13af230b3bc487bb9af.jpg?ehk=8J%2Bryz6ZiKl%2FgXw2fgINryCxIuFGVJYAIdVSXl9645k%3D&ehkOptimized=N1VKKdMczWVzW6oTWZUQQCBZmJDmB3TNbGCFx0xhzjY%3D
 53,19122413,53,Doublerino,Sikerino.,Daiki,Darkrai,Germany,Netherlands,United Kingdom,Losers Round 4,Eliminado,
 54,19156868,54,Retired B Ballers,.DJ. | Luke.,Milne,Asik,United Kingdom,United Kingdom,United Kingdom,Losers Round 1,Eliminado,
@@ -58,11 +58,11 @@
 57,19148117,57,L'antique espoir,Atypeak,Hawapo,Zaragou,France,Belgium,France,Losers Round 1,Eliminado,
 58,19020503,58,Thumbs up,Berserk,Hodge,lukekapo,United Kingdom,United Kingdom,United Kingdom,Losers Round 4,Eliminado,
 59,19074113,59,milkmen,mernoh,Nozai,Surf,United Kingdom,United Kingdom,United Kingdom,Losers Round 1,Eliminado,
-60,19094466,60,Bonk!,Nxko,Dxno,kaan,,Austria,Germany,Losers Round 5,Loser,
+60,19094466,60,Bonk!,Nxko,Dxno,kaan,,Austria,Germany,Losers Round 5,Eliminado,
 61,19044487,61,Save by the Keeper!,Sn0man,Senjisk,HiddenAY,United Kingdom,France,,Losers Round 1,Eliminado,
 62,19107306,62,teo lilian nico mateo,flikkas,nx,poker,France,France,France,Losers Round 4,Eliminado,
 63,19088975,63,Lilmix,DaSnake,Reshiram,Reevo,Sweden,France,Belgium,Losers Round 3,Eliminado,https://images.start.gg/images/team/2529865/image-69dd7e3869699b87fa2e5ba59dddb840.jpg?ehk=aaPXdaDM1%2FXdpEpO1ihyiEflYyZA9MPAMG2f2UambKQ%3D&ehkOptimized=60JIQZwCL7rKsbRbo75TGbsdFny%2FRGDWBgxO%2BboK%2BoE%3D
-64,19154383,64,Iced out Ballers,Krabby!,TIEGE,revrze11,United Kingdom,United Kingdom,United Kingdom,Losers Round 5,Loser,
+64,19154383,64,Iced out Ballers,Krabby!,TIEGE,revrze11,United Kingdom,United Kingdom,United Kingdom,Losers Round 5,Eliminado,
 65,19161361,65,Ahjin,acqua,drakster,Nesyy,France,France,France,Losers Round 5,Eliminado,
 66,18995492,66,DSQ Esports,Jazz.,Serve,Tyyyyy18,United Kingdom,United Kingdom,United Kingdom,Losers Round 5,Eliminado,https://images.start.gg/images/team/2420125/image-1b761503734bc312fd3186eae4d8d43c.png?ehk=dfKW9KeA3JzkT8u5l2r79y3vRT5lqyBoiRczv28SD7s%3D&ehkOptimized=4kccyZFANe2QWHIe%2Fw75sKlfC5f6cqPZHI%2B3onzg1%2FY%3D
 67,19156831,67,EvozA Esport,Nolta,Shuuya.,Tømio.,,France,France,Winners Semi-Final,Winner,https://images.start.gg/images/team/2481711/image-6bb7105ae221024bfb0296bc24a6046c.png?ehk=6mVXTkIjKVDtDSiVXq2pjQREGjAeorO8d%2B9MQKVQpd8%3D&ehkOptimized=Yg9uFOD%2BfCFD5bYlc0noSX9mYLXkr1ZM7UAJsEFMgi0%3D
@@ -85,7 +85,7 @@
 84,19131408,84,Ultra instinct,Samz.,Blas,Xusquete,Spain,Spain,Spain,Losers Round 5,Eliminado,
 85,19155934,85,Brave Esports,ensee.,Kyro,Frantic,United Kingdom,Ireland,United Kingdom,Losers Round 2,Eliminado,https://images.start.gg/images/team/2440265/image-68b0f1484e5058a16d27e486f8fa1aa9.png?ehk=Wlx%2F3%2FFfLhuHmmMoXKEOB1Zehx%2Bmlezy2z1mDxD1POE%3D&ehkOptimized=1hwigeYhLasIGZa4LxkFRupwfHCoxSCRBRYZx2pdKJc%3D
 86,19160199,86,Team Solid,Flo,dixa,Cam.,#REF!,,France,Losers Round 4,Eliminado,
-87,19159861,87,Tier 1 Workbench,ymarshyy,ols,Hopeless,,United Kingdom,Sweden,Losers Round 6,Loser,
+87,19159861,87,Tier 1 Workbench,ymarshyy,ols,Hopeless,,United Kingdom,Sweden,Losers Round 6,Eliminado,
 88,19139303,88,Thrive Esports,evigh,jackuhh.,Basic20,United Kingdom,Ireland,Austria,Losers Round 2,Eliminado,https://images.start.gg/images/team/2586541/image-d62f93d8c78649d2c3dc32679b619fea.png?ehk=djvTmHA6Zn6cyIqCIN8dVwtkyROzGExzhrf%2FW%2BAIdhI%3D&ehkOptimized=pEk3fgG3UVuEfEQDTpPUvgQk5bvoKU4%2F4JilS0NptgI%3D
 89,19161763,89,bangkok bulls,Lexxa,bunjeyy,Peluche.μ,Finland,Denmark,Spain,Losers Round 3,Eliminado,
 90,19161229,90,Luminary eSports-1,.estarl1n,Kamppu,seltt,Spain,Finland,,Losers Round 3,Eliminado,https://images.start.gg/images/team/2589521/image-0eda3736c135763c9d8e5e64423bf557.png?ehk=2pqJR9LspgGCrA01svcdyFzf%2FXmkkRVhIpYAEOB2y9Q%3D&ehkOptimized=jBxEzHsIfhtCj%2Fj9hyYVcN18K%2BJ2mvyj%2FfXS00%2BANlk%3D
@@ -96,7 +96,7 @@
 95,19132071,95,we dont know,paivX,LeoniD,rafaa,Portugal,Portugal,Portugal,Losers Round 2,Eliminado,
 96,18621072,96,Cierzo Esports,alnii.,Tolikz,dayking,Spain,Spain,Switzerland,Losers Round 2,Eliminado,https://images.start.gg/images/team/2293741/image-f29098916616869e9c40900c0fe4b407.png?ehk=YbYn82thMk0dq5za2xMd23Z3XJVVk5xk86Ib5D4WLWY%3D&ehkOptimized=ukeYmwvFnjL1n9GlM%2Fx5PxkaDGZZrMo%2Fj7%2FJTa4sqYc%3D
 97,19133159,97,Olympe Esport,Sniper,R2,felly,France,France,Czech Republic,Losers Round 2,Eliminado,https://images.start.gg/images/team/2480558/image-de8bf68be9b7066dff0a1d624df78ac5.png?ehk=gTo%2B%2FTHt%2Bh9MEAzNENlnVHZL8ay5kWBfMbGswU8FYAc%3D&ehkOptimized=MBzlylPa8kintNnzZ6Wl688uxhjiiWsGM18ondSDIaA%3D
-98,19155357,98,Plegue y sus colegas,Marc,Plegue,Visual.,Spain,Spain,Belgium,Losers Round 5,Loser,https://images.start.gg/images/team/2262299/image-32fc09ed17aeb2891e6fa820a22ef4bc.jpg?ehk=3S%2F8rcIREo4sROzlvDZf%2B9y7YZ8suDrbkkj%2Fv8pg6%2BA%3D&ehkOptimized=KEZw3fMCj89%2FiAChTTxZ7i8Tt3ifMZqE%2FiYosDIuXfo%3D
+98,19155357,98,Plegue y sus colegas,Marc,Plegue,Visual.,Spain,Spain,Belgium,Losers Round 5,Eliminado,https://images.start.gg/images/team/2262299/image-32fc09ed17aeb2891e6fa820a22ef4bc.jpg?ehk=3S%2F8rcIREo4sROzlvDZf%2B9y7YZ8suDrbkkj%2Fv8pg6%2BA%3D&ehkOptimized=KEZw3fMCj89%2FiAChTTxZ7i8Tt3ifMZqE%2FiYosDIuXfo%3D
 99,19157695,99,NethWayLand,Two.em,Jesse0990,bbinksie23,,Norway,Netherlands,Losers Round 5,Eliminado,
 100,19155958,100,Last Five Stars,alexg_dka,jrdi,splitz,Spain,Spain,Spain,Losers Round 3,Eliminado,https://images.start.gg/images/team/2495774/image-ca4d6cf80242533cd7ec75a76138a63d.png?ehk=y01a4A0dJMCNgU1EH0wkAhhNZ25k2S5CqTBpE0UaZPY%3D&ehkOptimized=31EdZQhH1gEAOrB60YLToAb5s49gAGzcMMQjsvKaF18%3D
 101,19145677,101,miel pops,Fakeswaysy,esostek,Ezïo,France,France,France,Losers Round 3,Eliminado,https://images.start.gg/images/team/2587018/image-17ed9ef6aa71467a5388c0bd2f4168da.jpg?ehk=qiQtCtikKm4SngeTWh4mpHrJ0kVdkrqS9%2FlwiEB0WeM%3D&ehkOptimized=IfUcMfbzRiHTEtSyFGhO%2FaBCaDh811BaGkog%2BdSCyLE%3D
@@ -171,7 +171,7 @@
 ,19153774,170,Enisorail,Talµ,WiZiVie,Absono,France,France,France,Losers Round 3,Eliminado,
 ,19161760,171,Emeritos Doritos,Sheku,Kamilovski,burrito,,Poland,Israel,Losers Round 1,Eliminado,https://images.start.gg/images/team/2512182/image-446e5cd32daaa59b9537c83257442c46.png?ehk=C82XThBrtrKQeajadqoziiruevKBiDwEU%2FnhlM9gge4%3D&ehkOptimized=URFq3jQb7aOORF%2FxWPv6RI21Bx7THW5KxQHfXXpKovw%3D
 ,19157069,172,SSK,Spoodz,Kazuu.,Jxffa,United Kingdom,Germany,Ireland,Losers Round 6,Eliminado,
-,19150310,173,farming simulator,Oliver7.,Walle,Shrapstar!,United Kingdom,Norway,,Losers Round 5,Loser,
+,19150310,173,farming simulator,Oliver7.,Walle,Shrapstar!,United Kingdom,Norway,,Losers Round 6,Loser,
 ,19153589,174,Pejsci,Aegiska,Den1s,Morimad,Czech Republic,Czech Republic,Czech Republic,Losers Round 3,Eliminado,https://images.start.gg/images/team/2330745/image-7f5cfaafb11f244098048857f9c10775.png?ehk=UpasW%2BphsbMo2eh2yTsm5FrVPYf0PUyzBwhyZ4vMHYg%3D&ehkOptimized=YabMk%2FV31MGwL3nMsg6oD3eRX996EI5M1YhLpWpDFFM%3D
 ,19157681,175,MFZ,Cloudy.,S U Z U Y A,Ozzy99000,Germany,United Kingdom,,Losers Round 5,Eliminado,https://images.start.gg/images/team/2589330/image-7a13662d07c49b7798a82d51365f4999.png?ehk=ygmXLmo97DAmBVFkOnqJe0xpw8KU8PNL0pdQuw%2BIRNM%3D&ehkOptimized=pMVrREf1CduDOuSnd7qXfX1Hmk0efjLFUyaUcAB69zk%3D
 ,19160561,176,baraka,zhen,arsydi.,MySkoO,France,France,France,Losers Round 2,Eliminado,
